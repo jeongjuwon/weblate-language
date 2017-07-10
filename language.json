@@ -1,5 +1,4 @@
 {
-
     "DEVICE_IS_NOT_RUNNING": "The device is not running.",
     "CO2_IS_s": "co2 is %sppm",
     "TVOC_IS_s": "tvoc is %s°C",
@@ -8,6 +7,11 @@
     "TEMPERATURE_IS_s": "Temperature is %s°C",
     "HUMIDITY_IS_s": "Humidity is %s",
     "SENSITIVE": "Sensitive",
+    "TEMPERATURE": "Temperature",
+    "HUMIDITY": "Humidity",
+    "NO2": "Nitrogen dioxide",
+    "CO2": "Carbon dioxide",
+    "PM": "Particulate Matter",
     "ALERT_CONNECT_DEVICE": "Please connect your device first.\nYou can get connection code in aai.care app.",
     "INVALID_MESSAGE": "Sorry, I didn't understand.\nIf you want to how to use aai.care bot follow these please",
     "SELECT_YOUR_DEVICE": "Select your device",
