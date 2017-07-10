@@ -1,1 +1,20 @@
-{}
+{
+    "ALERT_CONNECT_DEVICE": "디바이스를 연결해주세요.\naai.care 앱을 통해 커넥션 코드를 확인 할 수 있습니다.",
+    "ALERT_REGISTER_DEVICE": "등록된 장치가 없습니다.",
+    "CO2": "이산화탄소",
+    "CO2_IS_s": "이산화탄소 수치는 %sppm 입니다.",
+    "DEVICE_IS_NOT_RUNNING": "디바이스가 동작하고 있지 않습니다.",
+    "HUMIDITY": "습도",
+    "HUMIDITY_IS_s": "습도는 %s입니다.",
+    "INVALID_MESSAGE": "메세지를 이해하지 못했습니다.\n아래의 도움말을 따르세요.",
+    "NO2": "이산화질소",
+    "NO2_IS_s": "이산화질소 수치는 %s입니다.",
+    "PM": "미세먼지",
+    "PM_IS_s": "미세먼지 수치는 %s입니다.",
+    "SELECT_THE_DEVICE": "실내 공기를 확인하기 위해 디바이스를 선택하세요.",
+    "SELECT_YOUR_DEVICE": "장치를 선택하세요.",
+    "SENSITIVE": "민감도",
+    "TEMPERATURE": "온도",
+    "TEMPERATURE_IS_s": "온도는 %s°C입니다.",
+    "TVOC_IS_s": "휘발성유기화합물 수치는 %s입니다."
+}
