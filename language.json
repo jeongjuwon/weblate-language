@@ -12,5 +12,5 @@
     "INVALID_MESSAGE": "Sorry, I didn't understand.\nIf you want to how to use aai.care bot follow these please",
     "SELECT_YOUR_DEVICE": "Select your device",
     "SELECT_THE_DEVICE": "To check the indoor air condition, select the device.",
-    "ALERT_REGISTER_DEVICE": "You have no registered device",
+    "ALERT_REGISTER_DEVICE": "You have no registered device"
 }
