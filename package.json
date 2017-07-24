@@ -1,0 +1,19 @@
+{
+  "name": "module-bot-locale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeongjuwon/weblate-language.git"
+  },
+  "author": "2jw0718@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeongjuwon/weblate-language/issues"
+  },
+  "homepage": "https://github.com/jeongjuwon/weblate-language#readme"
+}
