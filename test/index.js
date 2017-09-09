@@ -1,7 +1,8 @@
 const express = require('express');
 const url = require('url');
 const i18n = require('../index.js');
-
+const LanguageDetect = require('languagedetect');
+const lngDetector = new LanguageDetect();
 // another 'global' object that is bound to i18n additionaly
 // DANGER! this `funkyObject` is NOT concurrency aware,
 // while req, res and res.locals are and will always be
@@ -11,7 +12,8 @@ app.use(i18n.init);
 
 // uses locale as guessed by accept-headers
 // req: Hallo res: Hallo res.locals: Hallo funkyObject: Hallo
-app.get('/default/:lang/:context', function(req, res) {
+app.get('/default/:lang/:string', function(req, res) {
+  console.log(lngDetector.detect('温度'));
   i18n.setLocale(req, req.params.lang);
   render(req, res);
 });
