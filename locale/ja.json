@@ -16,5 +16,16 @@
     "SENSITIVE": "感度",
     "TEMPERATURE": "温度",
     "TEMPERATURE_IS_s": "温度は％sです",
-    "TVOC_IS_s": "揮発性有機化合物の数値は％sです"
+    "TVOC_IS_s": "揮発性有機化合物の数値は％sです",
+    "WEEKLY_CHART": "ウィークリーチャート",
+    "MONTHLY_CHART": "月次チャート",
+    "TODAY_CHART": "今日のチャート",
+    "WEEKLY": "毎週",
+    "MONTHLY": "毎月",
+    "WEEK": "週間",
+    "MONTH": "月",
+    "TODAY": "今日",
+    "HI": "こんにちは％s。 いかがなさいましたか？",
+    "LANGUAGE_WAS_SELECTED": "日本語が選ばれました。",
+    "CONNECT_SUCCESSFULLY": "こんにちは％s。 コードがFirstBreathと正常に接続されました。"
 }

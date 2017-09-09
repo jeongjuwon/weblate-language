@@ -16,5 +16,16 @@
 	"SENSITIVE": "민감도",
 	"TEMPERATURE": "온도",
 	"TEMPERATURE_IS_s": "온도는 %s 입니다",
-	"TVOC_IS_s": "휘발성유기화합물 수치는 %s입니다"
+  "TVOC_IS_s": "휘발성유기화합물 수치는 %s입니다",
+  "WEEKLY_CHART": "주별 차트",
+  "MONTHLY_CHART": "월별 차트",
+  "TODAY_CHART": "일일 차트",
+  "WEEKLY": "주별",
+  "MONTHLY": "월별",
+  "WEEK": "주",
+  "MONTH": "월",
+  "TODAY": "오늘",
+  "HI": "안녕하세요 %s. 무엇을 도와 드릴까요?",
+  "LANGUAGE_WAS_SELECTED": "한국어가 선택되었습니다.",
+  "CONNECT_SUCCESSFULLY": "안녕하세요. %s님. 당신의 FirstBreath와 연결되었습니다."
 }
